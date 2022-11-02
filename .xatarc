@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Samuel-Peter-s-workspace-nd0ikq.us-east-1.xata.sh/db/iro",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "cjs"
+  }
+}
